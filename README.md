@@ -8,4 +8,4 @@ React Native init with react-native-template-typescript, @textile/hub using rn-n
 (for ios)
 ```npx pod-install``` or ```cd ios && pod install```
 
-Add textile key to .env (see .example.env)
+Add textile key to `.env` (see `.example.env`)
